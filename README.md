@@ -1,5 +1,10 @@
 # Laboratorio 1 - Compiladores
 
+## Video Explicativo
+
+[Ver Explicación del Código](Explicacion%20del%20codigo.mp4)
+
+
 1.  **`regex_utils.py`**:
     *   Ordena las operaciones, como poner los operadores al final.
 
