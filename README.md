@@ -3,7 +3,11 @@
 ## Video Explicativo
 
 
-![Ver Explicación del Código](Explicacion%20del%20codigo.mp4)
+
+[Ver Explicación del Código](Explicacion%20del%20codigo.mp4)
+
+> **Nota:** Intenté subir el video a YouTube, pero debido a que dura más de 15 minutos, no me permitió hacerlo. Por eso se incluye el archivo de video directamente en este repositorio.
+
 
 
 
