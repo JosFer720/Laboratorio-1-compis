@@ -20,18 +20,18 @@
 5.  **`analizador_lexico.py`**:
     *   Lee el texto y lo separa en tokens.
 
-## ¿Qué necesito?
+## ¿Qué se necesita?
 
 *   Tener Python instalado.
 *   Instalar la librería para graficar: `pip install graphviz`.
 *   Tener el programa Graphviz instalado en la computadora.
 
-## ¿Cómo lo uso?
+## ¿Cómo se usa?
 
-Solo corre este comando en la terminal:
+Solo corre `main.py` en la terminal:
 
 ```bash
 python main.py
 ```
 
-El programa te mostrará lo que encontró y te pedirá una palabra. Escríbela y dale Enter. Luego, busca en la carpeta con el nombre de tu palabra los dibujos que generó.
+El programa pedirá una palabra. Escríbela y dale Enter. Luego, busca en la carpeta con el nombre de tu palabra los diagramas que generó.
