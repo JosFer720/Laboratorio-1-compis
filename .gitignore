@@ -1,0 +1,25 @@
+# Carpetas generadas dinamicamente
+int/
+public/
+void/
+class/
+private/
+static/
+final/
+double/
+new/
+return/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
