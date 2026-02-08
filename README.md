@@ -2,7 +2,9 @@
 
 ## Video Explicativo
 
-[Ver Explicación del Código](Explicacion%20del%20codigo.mp4)
+
+![Ver Explicación del Código](Explicacion%20del%20codigo.mp4)
+
 
 
 1.  **`regex_utils.py`**:
